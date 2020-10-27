@@ -29,7 +29,6 @@ public class Course{
     }
 
     public Course(String id, String name, String description, String topicId) {
-        //super();
         this.id = id;
         this.name = name;
         this.description = description;
